@@ -1,36 +1,69 @@
-# Tiramisu
+# Strawberry Tiramisu
 
 ## About
 
-Tiramisu is one of my favorite desserts. It is an Italian dessert made with coffee, ladyfingers, and mascarpone cream.
+Strawberry Tiramisu is a sweet fruity twist on the classic Italian dessert, made with fresh strawberries, coffee-soaked ladyfingers, and creamy mascarpone.
 
-*Tiramisu is best served cold.*
+*It is best chilled overnight before serving.*
 
 ## Ingredients
 
-- Mascarpone cheese
-- Heavy whipping cream
-- Sugar
-- Vanilla extract
-- Ladyfingers
-- Coffee or espresso
+### Coffee Soak
+
+- 1 1/4 cups espresso
+- 6 tablespoons sweet Marsala wine
+- 1 tablespoon vanilla extract
+
+### Strawberry Filling
+
+- 600g strawberries
+- 100g sugar
+- Pinch of salt
+
+### Mascarpone Filling
+
+- 2 cups mascarpone cheese
+- 1/4 cup sweet Marsala wine
+- 1 teaspoon vanilla extract
+- 5 large eggs
+- 100g sugar
+- 2 cups whipping cream
+
+### Other
+
+- 300g ladyfinger cookies
 - Cocoa powder
 
 ## Instructions
 
-1. Make the coffee and let it cool.
-2. Mix the mascarpone, cream, sugar, and vanilla.
-3. Dip the ladyfingers into the coffee.
-4. Place the ladyfingers in a dish.
-5. Spread the mascarpone cream on top.
-6. Add another layer of ladyfingers and cream.
-7. Refrigerate for at least 4 hours.
-8. Sprinkle cocoa powder on top.
+1. Make the coffee soak and set it aside.
+
+2. Prepare the strawberries with sugar.
+
+3. Mix the mascarpone, Marsala, and vanilla together.
+
+4. Prepare the eggs and mascarpone filling.
+
+5. Whip the cream and fold it into the mascarpone mixture.
+
+6. Quickly dip the ladyfingers into the coffee mixture.
+
+7. Place the ladyfingers in a single layer in a pan.
+
+8. Add a layer of strawberries.
+
+9. Add a layer of mascarpone cream.
+
+10. Repeat the layers.
+
+11. Cover and refrigerate overnight.
+
+12. Dust with cocoa powder before serving.
 
 ### Tips
 
-- Don't soak the ladyfingers for too long.
-- Let the tiramisu chill before serving.
-- Add extra cocoa powder if you like.
+- Do not soak the ladyfingers for too long.
+- Let the tiramisu chill overnight.
+- Add the cocoa powder right before serving.
 
 **Enjoy!**
